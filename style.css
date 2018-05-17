@@ -51,13 +51,15 @@ header h2 {
 }
 
 .btn-xl {
-  padding: 1rem 2rem; 
+  padding: 1rem 2rem;
+  float: center; 
 }
 
 .btn-primary {
   background-color: white;
   border-color: white;
-  color: black; 
+  color: black;
+  float: center; 
 }
 
 .btn-primary:hover {
@@ -65,4 +67,5 @@ header h2 {
   border-color: silver;
   border-width: 5px;
   cursor: pointer;
+  float: center;
 }
