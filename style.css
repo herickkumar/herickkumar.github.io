@@ -45,9 +45,8 @@ header h2 {
 .btn {
   font-weight: 700;
   text-transform: uppercase;
-  border-radius: 800px;
+  border-radius: 300px;
   font-family: 'Cinzel', sans-serif;
-display: inline-block;	
 }
 
 .btn-xl {
