@@ -47,6 +47,7 @@ header h2 {
   text-transform: uppercase;
   border-radius: 300px;
   font-family: 'Cinzel', sans-serif;
+display: inline-block;	
 }
 
 .btn-xl {
