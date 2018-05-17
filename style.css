@@ -46,13 +46,13 @@ header h2 {
   font-weight: 700;
   text-transform: uppercase;
   border-radius: 300px;
-  font-family: 'Cinzel', sans-serif;
-  margin-left: 0 auto;
-  margin-right: 0 auto; 
+  font-family: 'Cinzel', sans-serif; 
 }
 
 .btn-xl {
   padding: 1rem 2rem;
+  margin-left: 0 auto;
+  margin-right: 0 auto;
 }
 
 .btn-primary {
