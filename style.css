@@ -5,7 +5,7 @@ html {
 }
 
 body {
-	font-family: 'Cinzel', serif;
+  font-family: 'Cinzel', serif;
 }
 
 hr {
@@ -31,15 +31,15 @@ header hr {
 }
 
 header h1 {
-	margin-top: 300px;
-	margin-bottom: 30px;
+  margin-top: 300px;
+  margin-bottom: 30px;
   font-size: 5rem; 
   color: white;
 }
 
 header h2 {
-	font-size: 8rem;
-	color: white;
+  font-size: 1rem;
+  color: white;
 }
 
 .btn {
@@ -47,19 +47,16 @@ header h2 {
   text-transform: uppercase;
   border-radius: 300px;
   font-family: 'Cinzel', sans-serif; 
-  margin: auto;
 }
 
 .btn-xl {
   padding: 1rem 2rem;
-  margin: auto;
 }
 
 .btn-primary {
   background-color: white;
   border-color: white;
   color: black;
-  margin: auto;
 }
 
 .btn-primary:hover {
@@ -67,5 +64,8 @@ header h2 {
   border-color: silver;
   border-width: 5px;
   cursor: pointer;
-  margin: auto;
+}
+
+.button {
+  float: center;
 }
