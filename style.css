@@ -38,7 +38,7 @@ header h1 {
 }
 
 header h2 {
-	font-size: 3rem;
+	font-size: 8rem;
 	color: white;
 }
 
@@ -47,19 +47,18 @@ header h2 {
   text-transform: uppercase;
   border-radius: 300px;
   font-family: 'Cinzel', sans-serif;
-  float: center;
+  margin-left: auto;
+  margin-right: auto; 
 }
 
 .btn-xl {
   padding: 1rem 2rem;
-  float: center; 
 }
 
 .btn-primary {
   background-color: white;
   border-color: white;
   color: black;
-  float: center; 
 }
 
 .btn-primary:hover {
@@ -67,5 +66,4 @@ header h2 {
   border-color: silver;
   border-width: 5px;
   cursor: pointer;
-  float: center;
 }
