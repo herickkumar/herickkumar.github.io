@@ -1,0 +1,67 @@
+body,
+html {
+  width: 100%;
+  height: 100%; 
+}
+
+body {
+	font-family: 'Cinzel', serif;
+}
+
+hr {
+  max-width: 65px;
+  border-width: 3px;
+  border-color: white;
+}
+
+.faded {
+  color: rgba(255, 255, 255, 1.0); 
+}
+
+header {
+  background-position: center;
+  background-image: url("infiniti.jpg");
+  background-size: cover;
+  height: 100%;
+}
+
+header hr {
+  margin-top: 300px;
+  margin-bottom: 30px; 
+}
+
+header h1 {
+	margin-top: 300px;
+	margin-bottom: 30px;
+  	font-size: 5rem; 
+  	color: white;
+}
+
+header h2 {
+	font-size: 3rem;
+	color: white;
+}
+
+.btn {
+  font-weight: 700;
+  text-transform: uppercase;
+  border-radius: 300px;
+  font-family: 'Cinzel', sans-serif;
+}
+
+.btn-xl {
+  padding: 1rem 2rem; 
+}
+
+.btn-primary {
+  background-color: white;
+  border-color: white;
+  color: black; 
+}
+
+.btn-primary:hover {
+  background-color: silver;
+  border-color: silver;
+  border-width: 5px;
+  cursor: pointer;
+}
